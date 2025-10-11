@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.textContent = 'Tebrikler Siz hamisini tapdiniz!'
+      resultDisplay.textContent = 'Təbriklər Siz hamısını tapdınız!'
     }
   }
 
